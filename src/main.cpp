@@ -1,3 +1,5 @@
-//
-// Created by Azeliah on 04/09/2023.
-//
+#include <iostream>
+
+int main() {
+    std::cout << "This is just a placeholder";
+}
